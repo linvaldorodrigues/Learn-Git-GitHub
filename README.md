@@ -1,9 +1,9 @@
 # learn-git & github
 ***
-- aprender os comandos basicos de git
-- entender como funciona Git
-- praticar e revisar os comandos básicos
-- livro de estudo **ProGit**
+- Aprender os comandos basicos de git
+- Entender como funciona Git
+- Praticar e revisar os comandos básicos
+- Livro de estudo **ProGit**
 ***
 ## Comandos básicos
 1. `git clone`;
